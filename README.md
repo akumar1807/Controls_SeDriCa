@@ -76,6 +76,7 @@ There are many ways to solve the path-tracking problem. We primarily use the fol
 * **Use Case:** Delivers incredibly high performance by anticipating the future, but is complex to implement and computationally demanding. This is a goal we are always working towards.
 
 **NOTE**: This is just a brief introduction to different controllers. To learn more, please go through **MODULE 6** of the following playlist on [Self Driving Cars](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
 ---
 
 ## Our Software Stack & Getting Started
