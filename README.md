@@ -38,10 +38,8 @@ This is our workhorse model. It's simple, computationally cheap, and works very 
 The state of the car is typically represented by its position ($x, y$) and heading ($\psi$). The state equations are:
 
 $$
-\dot{x} = v \cos(\psi)  
-
-\dot{y} = v \sin(\psi)
- 
+\dot{x} = v \cos(\psi) \\
+\dot{y} = v \sin(\psi) \\
 \dot{\psi} = \frac{v}{L} \tan(\delta)
 $$
 
