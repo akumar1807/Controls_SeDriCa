@@ -1,8 +1,8 @@
-# SeDriCa - Controls Subsystem Onboarding 🏎️💨
+# SeDriCa - Controls Subsystem 🏎️💨
 
 Welcome to the Controls Subsystem! Our mission is to make the car follow the fastest possible path with precision, stability, and aggression. This is where the magic happens—turning a planned trajectory into real-world motion by commanding the steering and throttle.
 
-This guide will walk you through the core concepts, our software stack, and your first steps to becoming a controls wizard. Let's get started!
+This guide will walk you through the core concepts and our software stack. Let's get started!
 
 ## Table of Contents
 1.  [The Big Picture: How Our Car Thinks](#the-big-picture-how-our-car-thinks)
